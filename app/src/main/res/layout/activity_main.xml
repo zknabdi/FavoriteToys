@@ -4,17 +4,17 @@
     android:layout_height="match_parent"
 
     >
-    <!--TODO (1) Change the ConstraintLayout to a FrameLayout
+    <!--Completed (1) Change the ConstraintLayout to a FrameLayout
     Note that you don't need to use the fully qualified name for FrameLayout. Replace
     "android.support.constraint.ConstraintLayout" with "FrameLayout" -->
-    <!--TODO (2) Remove all attributes with the word constraint in them-->
-    <!--TODO (3) Remove the default text-->
-    <!--TODO (4) Give the TextView 16dp of padding-->
-    <!--TODO (5) Set the text size to 20sp-->
-    <!--TODO (6) Remove the line that declares the id, we don't need it-->
-    <!--TODO (7) Add an id to the TextView with the value @+id/tv_toy_names-->
-    <!--TODO (8) Add a ScrollView around the TextView so you can scroll through the list of toys-->
-    <!--TODO (9) Make the width of the ScrollView match_parent and the height wrap_content-->
+    <!--Completed (2) Remove all attributes with the word constraint in them-->
+    <!--Completed (3) Remove the default text-->
+    <!--Completed (4) Give the TextView 16dp of padding-->
+    <!--Completed (5) Set the text size to 20sp-->
+    <!--Completed (6) Remove the line that declares the id, we don't need it-->
+    <!--Completed (7) Add an id to the TextView with the value @+id/tv_toy_names-->
+    <!--Completed (8) Add a ScrollView around the TextView so you can scroll through the list of toys-->
+    <!--Completed (9) Make the width of the ScrollView match_parent and the height wrap_content-->
 
     <ScrollView
         android:layout_width="match_parent"
